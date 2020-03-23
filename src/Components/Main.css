@@ -1,0 +1,14 @@
+.Image {
+  height: 100%; 
+  width: 100%; 
+  object-fit: contain;
+}
+
+.ExperienceHeader {
+  color: #506FA9;
+  font-weight: 600;
+  font-size: 25px;
+  border-left: 4px solid #506FA9;
+  padding-left: 25px;
+  margin-top: 25px;
+}

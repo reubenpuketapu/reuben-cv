@@ -1,0 +1,26 @@
+.Header {
+  border-bottom: 1px solid lightgrey;
+  padding: 50px;
+}
+
+.Mainheader {
+  color: #506FA9;
+  font-size: 50px;
+  font-weight: bold;
+  letter-spacing: 3px;
+  padding-left: 50px;
+  text-align: left;
+}
+
+.Subheader {
+  padding-left: 50px;
+  text-align: left;
+}
+
+.Sideheader {
+  text-align: left;
+  border-left: 1px solid lightgrey;
+  display: inline-block;
+  margin-left: 35px;
+  padding-left: 50px;
+}

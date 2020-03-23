@@ -1,0 +1,56 @@
+{
+    "introduction": {
+        "summary": "Summarise your career here. You can make a PDF version of your resume using our free Sketch template here. Donec quam felis, ultricies nec, pellentesque eu. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+    },
+    "experience": {
+        "items":[
+            {
+                "title": "Software Developer",
+                "companyInfo": "Xero | 2018 - Present",
+                "paragraph": "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.                 Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis."
+            },
+            {
+                "title": "Software Engineer Intern",
+                "companyInfo": "Vend | 2017 - 2018",
+                "paragraph": "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.                 Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis."
+            },
+            {
+                "title": "DevOps Intern",
+                "companyInfo": "Koordinates | 2016 - 2017",
+                "paragraph": "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.                 Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis."
+            }
+        ]
+    },
+    "interests": {
+        "items":[ "Music", "Concerts & Gigs", "Technology", "Television & Films", "Fitness & Health", "Traveling" ]
+    },
+    "education": {
+        "university": "Victoria University of Wellington | 2014 - 2018",
+        "degree": "BE (Hons) - Networking",
+        "info": "This is cool"
+    },
+    "skills": {
+        "technical": [
+            "OO programming + design (C#)",
+            "REST principles",
+            "Database desgin (SQL Server)",
+            "Frontend applications (React, Angular, TS)",
+            "Scripting (Python, Powershell, Bash)",
+            "CI/CD pipeline",
+            "Cloud Infrastructure (AWS)"
+        ],
+        "professional": [
+            "Team contributer",
+            "Customer value focussed",
+            "Growth + upskilling mindset",
+            "Clear + upfront communication"
+        ]
+    },
+    "awards-certifications": [
+        {"Amazon Web Services": "Certified Developer Associate"},
+        {"Amazon Web Services": "Certified Solutions Architect Associate"},
+        {"Xero": "Top Graduate of 2018"},
+        {"Victoria University": "Te Tini a Rehua Excellence Award (Top Maori Engineering Student)"},
+        {"Auckland Grammar School": "Prefect"}
+    ]
+}
