@@ -8,7 +8,7 @@ import data from "../data.json"
 
 function Main() {
     return (
-        <Container fluid className="Header">
+        <Container fluid className="Header Header-side">
             <Row>
                 <Col xs="7">
                     <Row>
@@ -35,17 +35,8 @@ function Main() {
                                 paragraph={data.education.info}
                             />
                     </Row>
-                    <Row>
-                        <div className="ExperienceHeader">
-                            AWARDS + CERTIFICATIONS
-                        </div>
-                        <SideGroup 
-                                title=""
-                                items={data.skills.professional}
-                            /> 
-                    </Row>
                 </Col>
-                <Col className="Sideheader">
+                <Col className="Sideheader Header-side">
                     <Row>
                         <div className="ExperienceHeader">
                             SKILLS
@@ -68,6 +59,17 @@ function Main() {
                             title=""
                             items={data.interests.items}/>
                         }
+                    </Row>
+                    <Row>
+                        <div className="ExperienceHeader">
+                        AWARDS + CERTIFICATIONS
+                        </div>
+                            {data.awardscertifications.map(item => (
+                                <SideGroup 
+                                    title={item.company}
+                                    items={[item.award]}
+                            />
+                            ))}
                     </Row>
                 </Col>
             </Row>

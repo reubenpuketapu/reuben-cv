@@ -3,6 +3,10 @@
   padding: 50px;
 }
 
+.Header-side {
+  padding-left: 80px;
+}
+
 .Mainheader {
   color: #506FA9;
   font-size: 50px;
