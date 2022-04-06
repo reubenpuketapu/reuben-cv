@@ -1,12 +1,22 @@
 {
     "introduction": {
-        "summary": "A team focussed software developer with a learning and upskilling mindset, I am passionate in creating entire applications as well as supporting them through their lifetime. Currently I am working in the fullstack development space with React frontend applications and .NET C# backend applications. I have strong skills in AWS cloud applications with CI/CD deployments aiding them. I was introduced to the software side of technology throughout university where applying logic and reasoning to solve problems became an obvious passion. Being able to apply those same principals with a customer problem was the next step to this path. I embrace the opportunity to learn new technical and non-technical skills at every chance whether it be a new software framework or meeting new people"
+        "summary": "A team focussed software developer with a learning and upskilling mindset, I am passionate in creating entire applications as well as supporting them through their lifetime. Currently I am working in the fullstack development space with React frontend applications and various backend applications. I have strong skills in AWS cloud applications with CI/CD deployments aiding them. I was introduced to the software side of technology throughout university where applying logic and reasoning to solve problems became an obvious passion. Being able to apply those same principals with a customer problem was the next step to this path. I embrace the opportunity to learn new technical and non-technical skills at every chance whether it be a new software framework or meeting new people"
     },
     "experience": {
         "items":[
             {
-                "title": "Software Developer",
-                "companyInfo": "Xero | 2018 - Present",
+                "title": "Software Engineer",
+                "companyInfo": "Melodics | 2021 - Present",
+                "paragraph": "Working in the Platform & Services team, I have built an integration with external services to manage the subscriptions platform at Melodics including frontend, backend and infrastructure. This is in addition to product feature work for any requirements for other teams as well as a fully automated analytics pipeline. Technologies used - PHP (Laravel), Typescript (Node + React), MySQL with many different AWS services"
+            },
+            {
+                "title": "Technical Co-Founder",
+                "companyInfo": "Tracked | 2020 - 2022",
+                "paragraph": "Co-created a DJ web app and chrome extension that allows DJs to identify songs within Soundcloud, YouTube and Mixcloud sets and add them to centralised playlists - which can then be exported to other listening medium. The product was build with React, Golang, Postgres and hosted on AWS ECS + S3"
+            },
+            {
+                "title": "Software Engineer",
+                "companyInfo": "Xero | 2018 - 2021",
                 "paragraph": "Contributing to the Xero HQ product as a full stack developer, I have worked in an eight person team managing staff authorisation. Throughout my time spent in the team, I have worked with entire applications through the decision making process, to the deployment pipelines, frontend + backend application and after hours on-call support. In addition to technical aspects, I have been a part of the tech + outreach team, Maori engagement team and a part of the recruitment process."
             },
             {
@@ -36,10 +46,12 @@
     },
     "skills": {
         "technical": [
-            "OO programming + design (C#)",
+            "OO programming + design",
             "REST principles",
-            "Database desgin (SQL Server)",
-            "Frontend applications (React, Angular, TS)",
+            "Database desgin (SQL Server, MySQL, Postgres, NoSQL)",
+            "Programming Languages (Typescript, Javascript, C#, PHP, Golang)",
+            "Frontend frameworks (React, Angular)",
+            "Backend framworks (.NET, Node, Laravel)",
             "Scripting (Python, Powershell, Bash)",
             "CI/CD pipelines",
             "Cloud Infrastructure (AWS)"
