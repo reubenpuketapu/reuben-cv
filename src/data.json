@@ -48,10 +48,10 @@
         "technical": [
             "OO programming + design",
             "REST principles",
-            "Database desgin (SQL Server, MySQL, Postgres, NoSQL)",
+            "Database design (SQL Server, MySQL, Postgres, NoSQL)",
             "Programming Languages (Typescript, Javascript, C#, PHP, Golang)",
             "Frontend frameworks (React, Angular)",
-            "Backend framworks (.NET, Node, Laravel)",
+            "Backend frameworks (.NET, Node, Laravel)",
             "Scripting (Python, Powershell, Bash)",
             "CI/CD pipelines",
             "Cloud Infrastructure (AWS)"
